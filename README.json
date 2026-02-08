@@ -39,7 +39,7 @@
             "last_commit": "2023-03-24T22:29:10Z",
             "owner": "edvardHua",
             "repo": "PoseEstimationForMobile",
-            "stars": 1019
+            "stars": 1020
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2017-06-29T04:28:46Z",
             "owner": "gkswamy98",
             "repo": "imessage-spam-detection",
-            "stars": 37
+            "stars": 36
           }
         },
         {
@@ -526,10 +526,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:27:36.894Z",
+    "last_updated": "2026-02-08T04:26:31.496Z",
     "original_repository": "likedan/Awesome-CoreML-Models",
     "source_repository": "v1nvn/enhansome-Awesome-CoreML-Models",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Contributing and License"
   }
 }

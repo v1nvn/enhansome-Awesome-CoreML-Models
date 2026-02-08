@@ -12,11 +12,11 @@ Since iOS 11, Apple released Core ML framework to help developers integrate mach
 
 We've put up the largest collection of machine learning models in Core ML format, to help  iOS, macOS, tvOS, and watchOS developers experiment with machine learning techniques.
 
-If you've converted a Core ML model, feel free to submit a [pull request](https://github.com/likedan/Awesome-CoreML-Models/compare) ⭐ 6,942 | 🐛 11 | 🌐 Python | 📅 2025-06-17.
+If you've converted a Core ML model, feel free to submit a [pull request](https://github.com/likedan/Awesome-CoreML-Models/compare) ⭐ 6,941 | 🐛 11 | 🌐 Python | 📅 2025-06-17.
 
 Recently, we've included visualization tools. And here's one [Netron](https://lutzroeder.github.io/Netron).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,651 | 🐛 67 | 📅 2026-01-28
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,876 | 🐛 68 | 📅 2026-01-28
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 # Models
@@ -25,11 +25,11 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 *Models that take image data as input and output useful information about the image.*
 
-* **PoseEstimation** - Estimating human pose from a picture for mobile. [Download](https://github.com/edvardHua/PoseEstimationForMobile/tree/master/release) ⭐ 1,019 | 🐛 91 | 🌐 C++ | 📅 2023-03-24 | [Demo](https://github.com/tucan9389/PoseEstimation-CoreML) ⭐ 699 | 🐛 26 | 🌐 Swift | 📅 2021-08-13 | [Reference](https://github.com/edvardHua/PoseEstimationForMobile) ⭐ 1,019 | 🐛 91 | 🌐 C++ | 📅 2023-03-24
+* **PoseEstimation** - Estimating human pose from a picture for mobile. [Download](https://github.com/edvardHua/PoseEstimationForMobile/tree/master/release) ⭐ 1,020 | 🐛 91 | 🌐 C++ | 📅 2023-03-24 | [Demo](https://github.com/tucan9389/PoseEstimation-CoreML) ⭐ 699 | 🐛 26 | 🌐 Swift | 📅 2021-08-13 | [Reference](https://github.com/edvardHua/PoseEstimationForMobile) ⭐ 1,020 | 🐛 91 | 🌐 C++ | 📅 2023-03-24
 * **YOLO** - Recognize what the objects are inside a given image and where they are in the image. [Download](https://github.com/hollance/YOLO-CoreML-MPSNNGraph/blob/master/TinyYOLO-CoreML/TinyYOLO-CoreML/TinyYOLO.mlmodel) ⭐ 947 | 🐛 27 | 🌐 Swift | 📅 2019-11-19 | [Demo](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) ⭐ 947 | 🐛 27 | 🌐 Swift | 📅 2019-11-19 | [Reference](http://machinethink.net/blog/object-detection-with-yolo)
 * **MobileNet** - Detects the dominant objects present in an image. [Download](https://github.com/hollance/MobileNet-CoreML/raw/master/MobileNet.mlmodel) ⭐ 713 | 🐛 5 | 🌐 Swift | 📅 2018-09-22 | [Demo](https://github.com/hollance/MobileNet-CoreML) ⭐ 713 | 🐛 5 | 🌐 Swift | 📅 2018-09-22 | [Reference](https://arxiv.org/abs/1704.04861)
 * **Places CNN** - Detects the scene of an image from 205 categories such as bedroom, forest, coast etc. [Download](https://github.com/hollance/MobileNet-CoreML/raw/master/MobileNet.mlmodel) ⭐ 713 | 🐛 5 | 🌐 Swift | 📅 2018-09-22 | [Demo](https://github.com/chenyi1989/CoreMLDemo) ⭐ 34 | 🐛 0 | 🌐 Objective-C | 📅 2017-06-12 | [Reference](http://places.csail.mit.edu/index.html)
-* **ImageSegmentation** - Segment the pixels of a camera frame or image into a predefined set of classes. [Download](https://developer.apple.com/machine-learning/models/) | [Demo](https://github.com/tucan9389/ImageSegmentation-CoreML) ⭐ 341 | 🐛 4 | 🌐 Swift | 📅 2021-03-27 | [Reference](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,690 | 🐛 1,274 | 🌐 Python | 📅 2026-02-05
+* **ImageSegmentation** - Segment the pixels of a camera frame or image into a predefined set of classes. [Download](https://developer.apple.com/machine-learning/models/) | [Demo](https://github.com/tucan9389/ImageSegmentation-CoreML) ⭐ 341 | 🐛 4 | 🌐 Swift | 📅 2021-03-27 | [Reference](https://github.com/tensorflow/models/tree/master/research/deeplab) ⭐ 77,691 | 🐛 1,274 | 🌐 Python | 📅 2026-02-05
 * **AgeNet** - Predict a person's age from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing) | [Demo](https://github.com/cocoa-ai/FacesVisionDemo) ⭐ 326 | 🐛 3 | 🌐 Swift | 📅 2019-10-08 | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 * **GenderNet** - Predict a person's gender from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing) | [Demo](https://github.com/cocoa-ai/FacesVisionDemo) ⭐ 326 | 🐛 3 | 🌐 Swift | 📅 2019-10-08 | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 * **EmotionNet** - Predict a person's emotion from one's portrait. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing) | [Demo](https://github.com/cocoa-ai/FacesVisionDemo) ⭐ 326 | 🐛 3 | 🌐 Swift | 📅 2019-10-08 | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
@@ -61,11 +61,11 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 *Models that process text data*
 
-* **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering) ⭐ 156,170 | 🐛 2,215 | 🌐 Python | 📅 2026-02-07
-* **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers) ⭐ 156,170 | 🐛 2,215 | 🌐 Python | 📅 2026-02-07
+* **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering) ⭐ 156,204 | 🐛 2,226 | 🌐 Python | 📅 2026-02-07
+* **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers) ⭐ 156,204 | 🐛 2,226 | 🌐 Python | 📅 2026-02-07
 * **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) ⭐ 124 | 🐛 2 | 🌐 Swift | 📅 2018-10-07 | [Demo](https://github.com/cocoa-ai/SentimentCoreMLDemo) ⭐ 124 | 🐛 2 | 🌐 Swift | 📅 2018-10-07 | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 * **DocumentClassification** - Classify news articles into 1 of 5 categories. [Download](https://github.com/toddkramer/DocumentClassifier/blob/master/Sources/DocumentClassification.mlmodel) ⭐ 46 | 🐛 1 | 🌐 Swift | 📅 2019-04-20 | [Demo](https://github.com/toddkramer/DocumentClassifier) ⭐ 46 | 🐛 1 | 🌐 Swift | 📅 2019-04-20 | [Reference](https://github.com/toddkramer/DocumentClassifier/) ⭐ 46 | 🐛 1 | 🌐 Swift | 📅 2019-04-20
-* **iMessage Spam Detection** - Detect whether a message is spam. [Download](https://github.com/gkswamy98/imessage-spam-detection/blob/master/MessageClassifier.mlmodel) ⭐ 37 | 🐛 0 | 🌐 Swift | 📅 2017-06-29 | [Demo](https://github.com/gkswamy98/imessage-spam-detection/tree/master) ⭐ 37 | 🐛 0 | 🌐 Swift | 📅 2017-06-29 | [Reference](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
+* **iMessage Spam Detection** - Detect whether a message is spam. [Download](https://github.com/gkswamy98/imessage-spam-detection/blob/master/MessageClassifier.mlmodel) ⭐ 36 | 🐛 0 | 🌐 Swift | 📅 2017-06-29 | [Demo](https://github.com/gkswamy98/imessage-spam-detection/tree/master) ⭐ 36 | 🐛 0 | 🌐 Swift | 📅 2017-06-29 | [Reference](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 * **NamesDT** - Gender Classification using DecisionTreeClassifier [Download](https://github.com/cocoa-ai/NamesCoreMLDemo/blob/master/Names/Resources/NamesDT.mlmodel) ⭐ 36 | 🐛 1 | 🌐 Swift | 📅 2018-10-07 | [Demo](https://github.com/cocoa-ai/NamesCoreMLDemo) ⭐ 36 | 🐛 1 | 🌐 Swift | 📅 2018-10-07 | [Reference](http://nlpforhackers.io/)
 * **Personality Detection** - Predict personality based on user documents (sentences). [Download](https://github.com/novinfard/profiler-sentiment-analysis/tree/master/ios_app/ProfilerSA/ML%20Models) ⭐ 19 | 🐛 2 | 🌐 Swift | 📅 2019-01-14 | [Demo](https://github.com/novinfard/profiler-sentiment-analysis/) ⭐ 19 | 🐛 2 | 🌐 Swift | 📅 2019-01-14 | [Reference](https://github.com/novinfard/profiler-sentiment-analysis/blob/master/dissertation-v6.pdf) ⭐ 19 | 🐛 2 | 🌐 Swift | 📅 2019-01-14
 
@@ -105,8 +105,8 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 *Collections of machine learning models that could be converted to Core ML*
 
-* [TensorFlow Models](https://github.com/tensorflow/models) ⭐ 77,690 | 🐛 1,274 | 🌐 Python | 📅 2026-02-05 - Models for TensorFlow.
-* [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) ⭐ 77,690 | 🐛 1,274 | 🌐 Python | 📅 2026-02-05 - Another collection of TensorFlow Models.
+* [TensorFlow Models](https://github.com/tensorflow/models) ⭐ 77,691 | 🐛 1,274 | 🌐 Python | 📅 2026-02-05 - Models for TensorFlow.
+* [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) ⭐ 77,691 | 🐛 1,274 | 🌐 Python | 📅 2026-02-05 - Another collection of TensorFlow Models.
 * [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) ⭐ 34,835 | 🐛 1,176 | 🌐 C++ | 📅 2024-07-31 - Big list of models in Caffe format.
 * [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 
@@ -127,5 +127,5 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 # Contributing and License
 
-* [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md) ⭐ 6,942 | 🐛 11 | 🌐 Python | 📅 2025-06-17
+* [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md) ⭐ 6,941 | 🐛 11 | 🌐 Python | 📅 2025-06-17
 * Distributed under the MIT license. See LICENSE for more information.
