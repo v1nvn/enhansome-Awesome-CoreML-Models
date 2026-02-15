@@ -16,7 +16,7 @@ If you've converted a Core ML model, feel free to submit a [pull request](https:
 
 Recently, we've included visualization tools. And here's one [Netron](https://lutzroeder.github.io/Netron).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,260 | 🐛 69 | 📅 2026-01-28
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,494 | 🐛 70 | 📅 2026-01-28
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 # Models
@@ -54,15 +54,15 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 
 *Models that transform images.*
 
-* **AnimeScale2x** - Process a bicubic-scaled anime-style artwork [Download](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) ⭐ 591 | 🐛 14 | 🌐 Swift | 📅 2022-12-14 | [Demo](https://github.com/imxieyi/waifu2x-ios) ⭐ 591 | 🐛 14 | 🌐 Swift | 📅 2022-12-14 | [Reference](https://arxiv.org/abs/1501.00092)
+* **AnimeScale2x** - Process a bicubic-scaled anime-style artwork [Download](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) ⭐ 591 | 🐛 15 | 🌐 Swift | 📅 2022-12-14 | [Demo](https://github.com/imxieyi/waifu2x-ios) ⭐ 591 | 🐛 15 | 🌐 Swift | 📅 2022-12-14 | [Reference](https://arxiv.org/abs/1501.00092)
 * **HED** - Detect nested edges from a color image. [Download](https://github.com/s1ddok/HED-CoreML/blob/master/HED-CoreML/Models/HED_so.mlmodel) ⭐ 111 | 🐛 0 | 🌐 Swift | 📅 2017-07-03 | [Demo](https://github.com/s1ddok/HED-CoreML) ⭐ 111 | 🐛 0 | 🌐 Swift | 📅 2017-07-03 | [Reference](http://dl.acm.org/citation.cfm?id=2654889)
 
 ## Text - Metadata/Text
 
 *Models that process text data*
 
-* **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering) ⭐ 156,439 | 🐛 2,230 | 🌐 Python | 📅 2026-02-14
-* **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers) ⭐ 156,439 | 🐛 2,230 | 🌐 Python | 📅 2026-02-14
+* **BERT for Question answering** - Swift Core ML 3 implementation of BERT for Question answering [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering) ⭐ 156,472 | 🐛 2,244 | 🌐 Python | 📅 2026-02-14
+* **GPT-2** - OpenAI GPT-2 Text generation (Core ML 3) [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) ⚠️ Archived | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) ⚠️ Archived | [Reference](https://github.com/huggingface/pytorch-transformers) ⭐ 156,472 | 🐛 2,244 | 🌐 Python | 📅 2026-02-14
 * **Sentiment Polarity** - Predict positive or negative sentiments from sentences. [Download](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) ⭐ 123 | 🐛 2 | 🌐 Swift | 📅 2018-10-07 | [Demo](https://github.com/cocoa-ai/SentimentCoreMLDemo) ⭐ 123 | 🐛 2 | 🌐 Swift | 📅 2018-10-07 | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 * **DocumentClassification** - Classify news articles into 1 of 5 categories. [Download](https://github.com/toddkramer/DocumentClassifier/blob/master/Sources/DocumentClassification.mlmodel) ⭐ 46 | 🐛 1 | 🌐 Swift | 📅 2019-04-20 | [Demo](https://github.com/toddkramer/DocumentClassifier) ⭐ 46 | 🐛 1 | 🌐 Swift | 📅 2019-04-20 | [Reference](https://github.com/toddkramer/DocumentClassifier/) ⭐ 46 | 🐛 1 | 🌐 Swift | 📅 2019-04-20
 * **iMessage Spam Detection** - Detect whether a message is spam. [Download](https://github.com/gkswamy98/imessage-spam-detection/blob/master/MessageClassifier.mlmodel) ⭐ 36 | 🐛 0 | 🌐 Swift | 📅 2017-06-29 | [Demo](https://github.com/gkswamy98/imessage-spam-detection/tree/master) ⭐ 36 | 🐛 0 | 🌐 Swift | 📅 2017-06-29 | [Reference](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
@@ -116,8 +116,8 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * [Image Analogy](https://github.com/msracver/Deep-Image-Analogy) ⭐ 1,371 | 🐛 22 | 🌐 C++ | 📅 2021-09-27 Find semantically-meaningful dense correspondences between two input images.
 * [CTPN](https://github.com/tianzhi0549/CTPN) ⭐ 1,287 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2021-10-15 Detecting text in natural image.
 * [Illustration2Vec](https://github.com/rezoo/illustration2vec) ⭐ 675 | 🐛 22 | 🌐 Python | 📅 2019-01-18 Estimating a set of tags and extracting semantic feature vectors from given illustrations.
+* [Fashion Detection](https://github.com/liuziwei7/fashion-detection) ⭐ 494 | 🐛 5 | 🌐 MATLAB | 📅 2021-10-09 Cloth detection from images.
 * [mtcnn](https://github.com/CongWeilin/mtcnn-caffe) ⭐ 494 | 🐛 52 | 🌐 Python | 📅 2018-10-01 Joint Face Detection and Alignment.
-* [Fashion Detection](https://github.com/liuziwei7/fashion-detection) ⭐ 493 | 🐛 5 | 🌐 MATLAB | 📅 2021-10-09 Cloth detection from images.
 * [Saliency](https://github.com/imatge-upc/saliency-2016-cvpr) ⭐ 188 | 🐛 7 | 🌐 Python | 📅 2019-12-10 The prediction of salient areas in images has been traditionally addressed with hand-crafted features.
 * [ILGnet](https://github.com/BestiVictory/ILGnet) ⭐ 114 | 🐛 9 | 🌐 Python | 📅 2018-05-06 The aesthetic evaluation of images.
 * [iLID](https://github.com/twerkmeister/iLID) ⚠️ Archived Automatic spoken language identification.
